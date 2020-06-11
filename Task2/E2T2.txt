@@ -4,7 +4,7 @@ Research and analyze which of the vulnerabilities appear to be related to the co
 3) IAM policy were not found attached to only group or roles.
 
 Bonus - provide recommendations on how to remediate the vulnerabilities.
-1) Inbound connection should be restricted as per the requierment.
-2) Outbound connection also should be restricted as per the requierment.
-3) IAM policy should only be attached to a particular group or roles.
+1) Inbound connection should be restricted as per the requierment in the security groups.
+2) Outbound connection also should be restricted as per the requierment in the security groups.
+3) IAM policy should only be attached to a particular group or roles in IAM.
 
